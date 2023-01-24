@@ -1,0 +1,18 @@
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/6331cf73020f1ec8957221ed:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637514b26bc3792d60633f08:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6331cf73020f1ec8957221ed:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637514b26bc3792d60633f08:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/63751454186a013431b81c26:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/63d0183014f50e1923784c9c:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6331cf73020f1ec8957221ed:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading 'toString')"}

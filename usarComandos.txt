@@ -1,0 +1,31 @@
+###  Comandos  ###
+###            ###
+###            ###  
+
+Con Node:
+
+node ./src/server.js
+node ./src/server.js -p 8080 --iscluster fork
+
+
+Con Forever:
+
+forever start  ./src/server.js -p 8081 --iscluster cluster
+
+
+Con Pm2:
+
+pm2 start ./src/server.js (pm2 fork)
+pm2 start ./src/server.js -i max (pm2 cluster)
+
+
+Con Nginx:
+
+pm2 start --name "server1" ./src/server.js -- -- --puerto 8082
+pm2 start --name "server2" ./src/server.js -- -- --puerto 8083
+pm2 start --name "server3" ./src/server.js -- -- --puerto 8084
+pm2 start --name "server4" ./src/server.js -- -- --puerto 8085
+
+
+
+
